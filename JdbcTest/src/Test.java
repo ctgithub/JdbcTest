@@ -7,12 +7,13 @@ public class Test {
 
 	public static Connection conn;
 	public static Connection getconn() throws ClassNotFoundException, SQLException{
-		String driver="com.microsoft.sqlserver.jdbc.SQLServerDriver";
+		/*String driver="com.microsoft.sqlserver.jdbc.SQLServerDriver";
 		String url="jdbc:sqlserver://localhost:1433;;databaseName=instant";
 		String username="sa";
 		String pwd="200802";
 		Class.forName(driver);
-		conn=DriverManager.getConnection(url,username,pwd);
+		conn=DriverManager.getConnection(url,username,pwd);*/
+		System.out.println("didf");
 		return conn;
 		
 	}
