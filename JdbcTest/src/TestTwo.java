@@ -8,6 +8,6 @@ public class TestTwo {
 
 	public static void main(String[] args) {
 		System.out.println("²âÊÔgithub");
-		System.out.println("dsdwhycould not ÐÞ¸Ä why");
+		System.out.println("dsdwhycould not ÐÞ¸Ädsf  why");
 	}
 }
